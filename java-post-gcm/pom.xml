@@ -12,8 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>asasass
-
+  </properties>
   <dependencies>
 	  <dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
